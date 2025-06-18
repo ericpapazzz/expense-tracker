@@ -1,6 +1,9 @@
 # Expense Tracker
 
-A simple Java console application to track your expenses and monthly budgets. This project allows you to add, update, list, and delete expenses, as well as set and monitor monthly budgets. If your expenses exceed your set budget for a month, you'll receive a warning.
+A simple Java console application to track your expenses and monthly budgets.
+
+Inspired from the Expense Tracker project featured in the Backend Roadmap from roadmap.sh.
+https://roadmap.sh/projects/expense-tracker
 
 ## Features
 
